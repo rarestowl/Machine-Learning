@@ -1,10 +1,10 @@
 /*
 document  class   words                                               
-d1         C      chinese
-d2         C      chinese
-d3         C      chinese
-d4         J      chinese
-d5         ?      chinese chinese chinese
+d1         C      chinese bejing chinese
+d2         C      chinese chinese sanghai 
+d3         C      chinese macao
+d4         J      tokyo japan chinese 
+d5         ?      chinese chinese chinese tokyo japan 
 */
 #include <bits/stdc++.h>
 using namespace std;
